@@ -13,13 +13,12 @@ return {
       require("telescope").setup {
         extensions = {
           ["ui-select"] = {
-            require("telescope.themes").get_dropdown {
-            }
-
+            require("telescope.themes").get_dropdown {}
           }
         }
       }
       require("telescope").load_extension("ui-select")
+      require('transparent').clear_prefix('NeoTree')
     end
   }
 }

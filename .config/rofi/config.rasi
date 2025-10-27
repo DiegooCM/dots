@@ -1,0 +1,93 @@
+configuration {
+  modi: "drun";
+  font: "JetBrainsMono NF 12";
+  display-drun: " ";
+}
+
+* {
+  todo: #f0f;
+  bg: #0004;
+  fg: #fff;
+  bg-sel: #0007;
+}
+
+window {
+  transparency: "real";
+  location: "center";
+  width: 600px;
+  padding: 0;
+  border: 0;
+  border-color: transparent;
+  border-radius: 0;
+  background-color: transparent;
+}
+
+mainbox {
+  enabled: true;
+  background-color: transparent;
+  border: 0;
+}
+
+// Inputbar
+inputbar {
+  enabled: true;
+  border: 0;
+  padding: 10px;
+  background-color: @bg;
+}
+
+textbox-prompt-colon {
+  enabled: false;
+}
+
+prompt {
+  enabled: true;
+  padding: 10px;
+  background-color: transparent;
+  text-color: @fg;
+}
+
+entry {
+  enabled: true;
+  background-color: transparent;
+  text-color: @fg;
+  cursor: text;
+  placeholder: "Search: ";
+  vertical-align: 0.5;
+}
+
+// List view
+listview {
+  enabled: true;
+  border: 0;
+  spacing: 0;
+  lines: 9;
+  scrollbar: false;
+  dynamic: true;
+  fixed-height: false;
+  fixed-columns: false;
+}
+
+element {
+  enabled: true;
+  text-color: @fg;
+  margin: 0;
+  border: 0;
+  padding: 10px;
+}
+
+element normal.normal {
+  background-color: @bg;
+  text-color: @fg;
+}
+
+element alternate.normal {
+  background-color: @bg;
+  text-color: @fg;
+}
+
+element selected.normal {
+  background-color: @bg-sel;
+  text-color: @fg;
+}
+
