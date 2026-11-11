@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "tabSize": 2,
+  "vimMode": true,
+  "showLineNumber": false,
+  "settingsPopoutWindow": false
+}

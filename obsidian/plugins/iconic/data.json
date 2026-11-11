@@ -1,0 +1,127 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Calendar": {
+      "icon": "lucide-calendar-days",
+      "unsynced": [
+        "53ee44141988c315",
+        "26b3729b5f58dcbf"
+      ]
+    },
+    "Daily Notes": {
+      "icon": "lucide-calendar",
+      "unsynced": [
+        "53ee44141988c315",
+        "26b3729b5f58dcbf"
+      ],
+      "color": "red"
+    },
+    "Excalidraw": {
+      "icon": "excalidraw-icon",
+      "unsynced": [
+        "53ee44141988c315",
+        "26b3729b5f58dcbf"
+      ],
+      "color": "orange"
+    },
+    "Imágenes": {
+      "icon": "lucide-image",
+      "unsynced": [
+        "53ee44141988c315",
+        "26b3729b5f58dcbf"
+      ],
+      "color": "blue"
+    },
+    "Libros": {
+      "icon": "lucide-book",
+      "unsynced": [
+        "53ee44141988c315",
+        "26b3729b5f58dcbf"
+      ],
+      "color": "yellow"
+    },
+    "Libros/_Libros Base.base": {
+      "icon": "lucide-database",
+      "unsynced": [
+        "53ee44141988c315"
+      ]
+    },
+    "Linux": {
+      "icon": "lucide-folder-code",
+      "unsynced": [
+        "53ee44141988c315",
+        "26b3729b5f58dcbf"
+      ]
+    },
+    "Otras Carpetas": {
+      "icon": "lucide-layers-3",
+      "unsynced": [
+        "53ee44141988c315",
+        "26b3729b5f58dcbf"
+      ],
+      "color": "cyan"
+    },
+    "Programación": {
+      "icon": "lucide-code-2",
+      "unsynced": [
+        "53ee44141988c315",
+        "26b3729b5f58dcbf"
+      ],
+      "color": "green"
+    },
+    "Vida": {
+      "icon": "lucide-heart",
+      "unsynced": [
+        "53ee44141988c315"
+      ],
+      "color": "red"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "XvSS1",
+      "name": "Untitled rule",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": false
+    }
+  ],
+  "folderRules": []
+}

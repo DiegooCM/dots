@@ -1,0 +1,338 @@
+{
+  "main": {
+    "id": "a6d3297b56327b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce6f2c79081cbd98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f709195efb11a99",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Panel Tareas.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Panel Tareas"
+            }
+          },
+          {
+            "id": "dc73dafa97400bf6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/Diario/Todo 15-10-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Todo 15-10-26"
+            }
+          },
+          {
+            "id": "f0461de4bdc1c979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciencia de Datos/Proyectos/Competiciones/Credit Card Fraud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credit Card Fraud"
+            }
+          },
+          {
+            "id": "3b01e7a2863d5c37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciencia de Datos/Apuntes/Modelos Predictivos/Proceso - Modelos Predictivos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proceso - Modelos Predictivos"
+            }
+          },
+          {
+            "id": "cd580affaf611c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reloj cumple.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reloj cumple"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8de6da66016266ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "b74e6b4288ceaf1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaa7f44dceb72121",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e17f7ac15a5a7166",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cec7fa99641f11f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "bdb17052a33bce99",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.859375
+  },
+  "right": {
+    "id": "3bfcce73731b71b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a78320e8068bcc2d",
+        "type": "tabs",
+        "dimension": 34.05088062622309,
+        "children": [
+          {
+            "id": "e4ec722a0873ba51",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "6a0e9f1e4f0d9aac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "71ffb53e088d9d77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reloj cumple.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6d897db2b5c10029",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programación/Proyectos/Tests App/Diseño e Idea General.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Diseño e Idea General"
+            }
+          },
+          {
+            "id": "cba069e9058f932e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7263c14f15c070be",
+            "type": "leaf",
+            "state": {
+              "type": "virtual-pet",
+              "state": {},
+              "icon": "paw-print",
+              "title": "Virtual pet"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ae98f14aabbc2d75",
+        "type": "tabs",
+        "dimension": 65.94911937377691,
+        "children": [
+          {
+            "id": "807c72f4f3a823b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reloj cumple.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "iconic:Open rulebook": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "cd580affaf611c21",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Calendar/Panel Tareas.md",
+    "Calendar/Diario/Todo 15-10-26.md",
+    "Untitled 1.md",
+    "Reloj cumple.md",
+    "promt.md",
+    "Pasted image 20261102164301.png",
+    "Pasted image 20261102164308 1.png",
+    "Ciencia de Datos/Apuntes/Modelos Predictivos/Proceso - Modelos Predictivos.md",
+    "Pasted image 20261102164308.png",
+    "Ciencia de Datos/Proyectos/Competiciones/Credit Card Fraud.md",
+    "Calendar/Horario.md",
+    "Vida/Qué hacer cuando?.md",
+    "Calendar/Propiedades tareas gordas.md",
+    "Ciencia de Datos/Apuntes/Modelos Predictivos/Algoritmos - Modelos Predictivos.md",
+    "Ciencia de Datos/Ruta para aprender Data Science.md",
+    "Ciencia de Datos/Proyectos/Competiciones/Notas Airline Satisfaction.md",
+    "Ciencia de Datos/Proyectos/Competiciones",
+    "Calendar/Tareas Únicas.md",
+    "Pasted image 20261022172208.png",
+    "Pasted image 20261020231514.png",
+    "Pasted image 20261022170921.png",
+    "Pasted image 20261022172011.png",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Libros/Data Science for Business.md",
+    "Ciencia de Datos/Apuntes/Modelos Predictivos/Conceptos - Modelos Predictivos.md",
+    "Ciencia de Datos/Apuntes/Modelos Predictivos/Técnicas - Modelos Predictivos.md",
+    "Calendar/Tareas Gordas/Sin empezar/Aprender Power Automate.md",
+    "Calendar/Tareas Gordas/Sin empezar",
+    "Ciencia de Datos/Excel/Dudas Excel.md",
+    "ordena eric.md",
+    "Otras Carpetas/Prácticas/Prácticas Carrera.md",
+    "Ciencia de Datos/Apuntes/Modelos Predictivos/Elección algoritmo - Modelos Predictivos.md",
+    "Ciencia de Datos/Apuntes/Modelos Predictivos",
+    "Imágenes/Pasted image 20261016105453.png",
+    "Ciencia de Datos/Proyectos",
+    "Ciencia de Datos/Apuntes",
+    "Ciencia de Datos/Tecnologías",
+    "Imágenes/Pasted image 20261015195543.png",
+    "Imágenes/Pasted image 20261015112246.png",
+    "Calendar/Tareas Gordas",
+    "Libros/_Libros Base.base",
+    "Ciencia de Datos/Excel/Ejercicio Estudiantes",
+    "Ciencia de Datos/Excel",
+    "Programación/Proyectos/OsteoVigo/Páginas.canvas",
+    "Libros/Imagenes y recursos/Clean Arquictecture - Robert C. Martin/5-Dependency-Inversion.canvas"
+  ]
+}

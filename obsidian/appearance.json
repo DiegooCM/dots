@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "cssTheme": "Obsidian gruvbox",
+  "enabledCssSnippets": [
+    "fondo-blanco"
+  ]
+}

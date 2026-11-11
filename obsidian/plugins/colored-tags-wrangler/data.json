@@ -1,0 +1,174 @@
+{
+  "TagColors": {
+    "ColorPicker": [
+      {
+        "tag_name": "Bug",
+        "color": {
+          "r": 121,
+          "g": 27,
+          "b": 27
+        },
+        "background_color": {
+          "r": 236,
+          "g": 126,
+          "b": 126
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "Optimizacion",
+        "color": {
+          "r": 0,
+          "g": 57,
+          "b": 148
+        },
+        "background_color": {
+          "r": 136,
+          "g": 169,
+          "b": 221
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "Posible",
+        "color": {
+          "r": 88,
+          "g": 0,
+          "b": 112
+        },
+        "background_color": {
+          "r": 203,
+          "g": 136,
+          "b": 221
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "Principal",
+        "color": {
+          "r": 14,
+          "g": 105,
+          "b": 2
+        },
+        "background_color": {
+          "r": 91,
+          "g": 205,
+          "b": 76
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "Secundario",
+        "color": {
+          "r": 128,
+          "g": 51,
+          "b": 0
+        },
+        "background_color": {
+          "r": 254,
+          "g": 139,
+          "b": 62
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "Urgente",
+        "color": {
+          "r": 77,
+          "g": 0,
+          "b": 0
+        },
+        "background_color": {
+          "r": 185,
+          "g": 45,
+          "b": 45
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "Actual",
+        "color": {
+          "r": 61,
+          "g": 61,
+          "b": 0
+        },
+        "background_color": {
+          "r": 255,
+          "g": 255,
+          "b": 0
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "Terciario",
+        "color": {
+          "r": 55,
+          "g": 52,
+          "b": 31
+        },
+        "background_color": {
+          "r": 211,
+          "g": 201,
+          "b": 120
+        },
+        "luminance_offset": 0.15
+      }
+    ],
+    "EnableMultipleTags": true,
+    "EnableSeparateBackground": true,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "LuminanceOffset": 0.15
+    }
+  },
+  "CSS": {
+    "NoteTags": true,
+    "NoteProperties": true,
+    "NoteBackgrounds": false,
+    "TagsNoWrap": true,
+    "TagsNoWrapText": "pre"
+  },
+  "FolderNote": {
+    "Enable": false,
+    "FolderTagLinks": [],
+    "EnableAutoDetect": true,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "ForceImportant": true,
+      "BorderRadius": "12px",
+      "Padding": "5px"
+    }
+  },
+  "Kanban": {
+    "Enable": false,
+    "EnableCards": false,
+    "EnableLists": false,
+    "HideHashtags": false,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "CardBackgroundOpacity": 0.2,
+      "CardBorderOpacity": 0.3,
+      "ListBackgroundOpacity": 0.2,
+      "ListBorderOpacity": 0.3
+    }
+  },
+  "Canvas": {
+    "Enable": false,
+    "EnableBackgroundOpacity": false,
+    "Values": {
+      "BackgroundOpacity": 0.45,
+      "CardBorderOpacity": 0.3,
+      "CardBackgroundLuminanceOffset": 0.15
+    }
+  },
+  "Debug": {
+    "Enable": false,
+    "EnableExperimentalCommands": false
+  },
+  "Info": {
+    "SettingsVersion": 14
+  }
+}
